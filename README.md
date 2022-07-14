@@ -1,5 +1,8 @@
 # CRUD-Rest-api
-Golang-Gin-Mongodb를 이용한 Rest api개발 
+Golang-Gin 및 Mongodb를 이용한 RESTful API개발
+CRUD 게시판 API만들기
+#조건
+MongoDB는 Docker로 띄워서 사용할 것
 
 # 실행 
 docker compose 명령어
